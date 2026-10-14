@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS-specific
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# project-specific
+settings.json
